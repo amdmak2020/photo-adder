@@ -2,7 +2,7 @@ function alo () {
     var ne = document.createElement('img');
     var con = document.getElementById('cat');
     ne.id = 'remov'
-    ne.src = "E:/amdmak/amdmak/66348914_2206782002877566_3898477128076754944_n.jpg";
+    ne.src = "https://media.tenor.com/images/c50ca435dffdb837914e7cb32c1e7edf/tenor.gif";
     con.appendChild(ne)
 }
 function remo() {
